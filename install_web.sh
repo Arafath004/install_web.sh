@@ -1,1 +1,1 @@
-dnf install httpd
+dnf install -y yum nginx 
